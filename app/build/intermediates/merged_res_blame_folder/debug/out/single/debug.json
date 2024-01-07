@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_turn_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/turn_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_register.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/register.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_dialog.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/dialog.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_todolist.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/todolist.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_tests.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/tests.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_loading_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/loading_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_dgowda.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/dgowda.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_uuuuu_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/uuuuu_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_profiles.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/profiles.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_information.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/information.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_nav_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/nav_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_live_fragment.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/live_fragment.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_upload_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/upload_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_email_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/email_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_camera_alt_grey.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_camera_alt_grey.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_data_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/data_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_done_all_white.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_done_all_white.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_close_black.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_close_black.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_icon_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/icon_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_group.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/group.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_add_black.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_verified_profile.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/verified_profile.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_logo_middle.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/logo_middle.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_attach_file_grey.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_attach_file_grey.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_outline_send.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/outline_send.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_more.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/more.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_add_event.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/add_event.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_website.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/website.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_uuuuu_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/uuuuu_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_login.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/login.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_hsms.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/hsms.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_home.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/home.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_badge4.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/badge4.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_python.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/python.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_hamm.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/hamm.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_turn_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/turn_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_custome.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/custome.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_cpp.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/cpp.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_som.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/som.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_uuuuu_4.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/uuuuu_4.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_icon_error_toast.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/icon_error_toast.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_gear.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/gear.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_loading_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/loading_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_profilllepic_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/profilllepic_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_play_arrow_white.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_login_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/login_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_logo.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_college.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/college.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_chat.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/chat.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_edit_profile.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/edit_profile.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_homme_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/homme_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_data_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/data_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_nav_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/nav_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_timetable.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/timetable.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_bottom_sheet.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/bottom_sheet.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_red_dot.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/red_dot.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_login_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/login_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_graduation.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/graduation.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_send_grey.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_send_grey.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_profilllepic_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/profilllepic_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_main.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/main.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_data_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/data_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_silder.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/silder.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_homme_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/homme_2.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_upcoming_fragment.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/upcoming_fragment.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_profilllepic_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/profilllepic_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_share.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/share.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_dots.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/dots.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_homme_4.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/homme_4.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_verified_large.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_verified_large.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_share_file.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/share_file.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_turn_4.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/turn_4.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_icon_file_doc.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/icon_file_doc.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_man.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/man.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_nav_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/nav_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_group.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/group.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_homme_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/homme_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_test.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/test.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_profiless.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/profiless.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_javascript.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/javascript.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_email_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/email_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_create_group.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/create_group.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_iiii.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/iiii.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_ic_mic_none_white.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/ic_mic_none_white.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_stars.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/stars.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_empty.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/empty.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_engineering.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/engineering.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_uuuuu_3.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/uuuuu_3.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_deadline.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/deadline.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_custom_dialog.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_dotpp.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/dotpp.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_logoo.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/logoo.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_files.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/files.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_home.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/home.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_share.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/layout_group_chat.xml.flat",
+        "source": "com.firsco.education.app-main-20:/layout/group_chat.xml"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_upload_1.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/upload_1.png"
+    },
+    {
+        "merged": "com.firsco.education.app-merged_res-18:/drawable-xhdpi_turn_2.png.flat",
+        "source": "com.firsco.education.app-main-20:/drawable-xhdpi/turn_2.png"
+    }
+]

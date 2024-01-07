@@ -1,0 +1,373 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.firsco.education"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:5:2-64
+11-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:5:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:6:2-76
+12-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:6:19-73
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:7:2-77
+13-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:7:19-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:8:2-78
+14-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:8:19-75
+15
+16    <application
+16-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:9:2-163:16
+17        android:allowBackup="true"
+17-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:10:3-29
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/86cbc0e1560648ec48358638178f8802/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/app_icon"
+20-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:12:3-36
+21        android:label="@string/app_name"
+21-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:13:3-35
+22        android:requestLegacyExternalStorage="true"
+22-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:11:9-52
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme"
+24-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:15:3-34
+25        android:usesCleartextTraffic="true" >
+25-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:14:3-38
+26        <activity
+26-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:16:3-27:14
+27            android:name="com.firsco.education.MainActivity"
+27-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:17:4-32
+28            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+28-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:18:4-97
+29            android:hardwareAccelerated="true"
+29-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:19:4-38
+30            android:screenOrientation="portrait"
+30-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:22:4-40
+31            android:supportsPictureInPicture="true"
+31-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:20:4-43
+32            android:theme="@style/AppTheme.FullScreen" >
+32-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:21:4-46
+33            <intent-filter>
+33-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:23:4-26:20
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:24:5-57
+34-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:24:13-54
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:25:5-65
+36-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:25:15-62
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:28:3-33:43
+40            android:name="com.firsco.education.LoginActivity"
+40-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:29:4-33
+41            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+41-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:30:4-97
+42            android:hardwareAccelerated="true"
+42-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:31:4-38
+43            android:screenOrientation="portrait"
+43-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:33:4-40
+44            android:supportsPictureInPicture="true" />
+44-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:32:4-43
+45        <activity
+45-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:34:3-39:43
+46            android:name="com.firsco.education.RegisterActivity"
+46-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:35:4-36
+47            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+47-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:36:4-97
+48            android:hardwareAccelerated="true"
+48-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:37:4-38
+49            android:screenOrientation="portrait"
+49-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:39:4-40
+50            android:supportsPictureInPicture="true" />
+50-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:38:4-43
+51        <activity
+51-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:40:3-45:43
+52            android:name="com.firsco.education.HomeActivity"
+52-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:41:4-32
+53            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+53-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:42:4-97
+54            android:hardwareAccelerated="true"
+54-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:43:4-38
+55            android:screenOrientation="portrait"
+55-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:45:4-40
+56            android:supportsPictureInPicture="true" />
+56-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:44:4-43
+57        <activity
+57-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:46:3-51:43
+58            android:name="com.firsco.education.InformationActivity"
+58-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:47:4-39
+59            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+59-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:48:4-97
+60            android:hardwareAccelerated="true"
+60-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:49:4-38
+61            android:screenOrientation="portrait"
+61-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:51:4-40
+62            android:supportsPictureInPicture="true" />
+62-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:50:4-43
+63        <activity
+63-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:52:3-57:43
+64            android:name="com.firsco.education.CreateGroupActivity"
+64-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:53:4-39
+65            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+65-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:54:4-97
+66            android:hardwareAccelerated="true"
+66-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:55:4-38
+67            android:screenOrientation="portrait"
+67-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:57:4-40
+68            android:supportsPictureInPicture="true" />
+68-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:56:4-43
+69        <activity
+69-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:58:3-63:43
+70            android:name="com.firsco.education.GroupChatActivity"
+70-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:59:4-37
+71            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+71-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:60:4-97
+72            android:hardwareAccelerated="true"
+72-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:61:4-38
+73            android:screenOrientation="portrait"
+73-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:63:4-40
+74            android:supportsPictureInPicture="true" />
+74-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:62:4-43
+75        <activity
+75-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:64:3-69:43
+76            android:name="com.firsco.education.FilesActivity"
+76-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:65:4-33
+77            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+77-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:66:4-97
+78            android:hardwareAccelerated="true"
+78-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:67:4-38
+79            android:screenOrientation="portrait"
+79-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:69:4-40
+80            android:supportsPictureInPicture="true" />
+80-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:68:4-43
+81        <activity
+81-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:70:3-75:43
+82            android:name="com.firsco.education.ShareFileActivity"
+82-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:71:4-37
+83            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+83-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:72:4-97
+84            android:hardwareAccelerated="true"
+84-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:73:4-38
+85            android:screenOrientation="portrait"
+85-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:75:4-40
+86            android:supportsPictureInPicture="true" />
+86-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:74:4-43
+87        <activity
+87-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:76:3-81:43
+88            android:name="com.firsco.education.AddEventActivity"
+88-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:77:4-36
+89            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+89-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:78:4-97
+90            android:hardwareAccelerated="true"
+90-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:79:4-38
+91            android:screenOrientation="portrait"
+91-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:81:4-40
+92            android:supportsPictureInPicture="true" />
+92-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:80:4-43
+93        <activity
+93-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:82:3-87:43
+94            android:name="com.firsco.education.EditProfileActivity"
+94-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:83:4-39
+95            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+95-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:84:4-97
+96            android:hardwareAccelerated="true"
+96-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:85:4-38
+97            android:screenOrientation="portrait"
+97-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:87:4-40
+98            android:supportsPictureInPicture="true" />
+98-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:86:4-43
+99        <activity
+99-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:88:3-93:43
+100            android:name="com.firsco.education.TodolistActivity"
+100-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:89:4-36
+101            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+101-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:90:4-97
+102            android:hardwareAccelerated="true"
+102-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:91:4-38
+103            android:screenOrientation="portrait"
+103-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:93:4-40
+104            android:supportsPictureInPicture="true" />
+104-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:92:4-43
+105        <activity
+105-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:94:3-99:43
+106            android:name="com.firsco.education.TestActivity"
+106-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:95:4-32
+107            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+107-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:96:4-97
+108            android:hardwareAccelerated="true"
+108-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:97:4-38
+109            android:screenOrientation="portrait"
+109-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:99:4-40
+110            android:supportsPictureInPicture="true" />
+110-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:98:4-43
+111        <activity
+111-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:100:3-105:43
+112            android:name="com.firsco.education.WebsiteActivity"
+112-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:101:4-35
+113            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+113-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:102:4-97
+114            android:hardwareAccelerated="true"
+114-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:103:4-38
+115            android:screenOrientation="portrait"
+115-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:105:4-40
+116            android:supportsPictureInPicture="true" />
+116-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:104:4-43
+117        <activity
+117-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:106:3-111:43
+118            android:name="com.firsco.education.ProfilesActivity"
+118-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:107:4-36
+119            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+119-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:108:4-97
+120            android:hardwareAccelerated="true"
+120-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:109:4-38
+121            android:screenOrientation="portrait"
+121-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:111:4-40
+122            android:supportsPictureInPicture="true" />
+122-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:110:4-43
+123        <activity
+123-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:112:3-117:43
+124            android:name="com.firsco.education.ProfilessActivity"
+124-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:113:4-37
+125            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+125-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:114:4-97
+126            android:hardwareAccelerated="true"
+126-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:115:4-38
+127            android:screenOrientation="portrait"
+127-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:117:4-40
+128            android:supportsPictureInPicture="true" />
+128-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:116:4-43
+129        <activity
+129-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:118:3-123:43
+130            android:name="com.firsco.education.EngineeringActivity"
+130-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:119:4-39
+131            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+131-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:120:4-97
+132            android:hardwareAccelerated="true"
+132-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:121:4-38
+133            android:screenOrientation="portrait"
+133-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:123:4-40
+134            android:supportsPictureInPicture="true" />
+134-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:122:4-43
+135
+136        <meta-data
+136-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:124:3-126:60
+137            android:name="com.google.android.gms.version"
+137-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:125:4-49
+138            android:value="@integer/google_play_services_version" />
+138-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:126:4-57
+139
+140        <provider
+140-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:127:3-131:30
+141            android:name="com.google.firebase.provider.FirebaseInitProvider"
+141-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:128:4-68
+142            android:authorities="com.firsco.education.firebaseinitprovider"
+142-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:129:4-67
+143            android:exported="false"
+143-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:130:4-28
+144            android:initOrder="100" />
+144-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:131:4-27
+145
+146        <service
+146-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:132:3-144:13
+147            android:name="com.google.firebase.components.ComponentDiscoveryService"
+147-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:133:4-75
+148            android:exported="false" >
+148-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:134:4-28
+149            <meta-data
+149-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:135:4-137:73
+150                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+150-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:136:5-97
+151                android:value="com.google.firebase.components.ComponentRegistrar" />
+151-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:137:5-70
+152            <meta-data
+152-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:138:4-140:73
+153                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+153-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:139:5-97
+154                android:value="com.google.firebase.components.ComponentRegistrar" />
+154-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:140:5-70
+155            <meta-data
+155-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:141:4-143:73
+156                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+156-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:142:5-95
+157                android:value="com.google.firebase.components.ComponentRegistrar" />
+157-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:143:5-70
+158        </service>
+159
+160        <uses-library
+160-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:145:3-147:31
+161            android:name="org.apache.http.legacy"
+161-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:146:4-41
+162            android:required="false" />
+162-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:147:4-28
+163
+164        <activity
+164-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:149:1-162:12
+165            android:name="com.firsco.education.SplashActivity"
+165-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:150:2-32
+166            android:exported="true" >
+166-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:151:1-24
+167            <intent-filter>
+167-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:152:4-160:20
+168                <action android:name="android.intent.action.VIEW" />
+168-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:153:5-57
+168-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:153:13-54
+169                <action android:name="com.uptime.club.LAUNCH" />
+169-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:154:5-53
+169-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:154:13-50
+170
+171                <category android:name="android.intent.category.DEFAULT" />
+171-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:155:5-64
+171-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:155:15-61
+172                <category android:name="android.intent.category.BROWSABLE" />
+172-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:156:5-66
+172-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:156:15-63
+173
+174                <data
+174-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:157:4-80
+175                    android:host="pes.sloutionsfortech.in"
+175-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:157:39-77
+176                    android:scheme="https" />
+176-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:157:10-32
+177                <data
+177-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:157:4-80
+178                    android:host="pes.sloutionsfortech.in"
+178-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:157:39-77
+179                    android:scheme="http" />
+179-->/home/deekshith/Downloads/Education/app/src/main/AndroidManifest.xml:157:10-32
+180            </intent-filter>
+181        </activity>
+182        <activity
+182-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:24:9-31:50
+183            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+183-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:25:13-85
+184            android:excludeFromRecents="true"
+184-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:26:13-46
+185            android:exported="true"
+185-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:27:13-36
+186            android:launchMode="singleTask"
+186-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:28:13-44
+187            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+187-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:29:13-102
+188            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+188-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/faef80f17f6d07cb6f2af5e7f3869561/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:30:13-72
+189        <activity
+189-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/d8ccb5ded020133dca431f1df2538ac7/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+190            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+190-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/d8ccb5ded020133dca431f1df2538ac7/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+191            android:exported="false"
+191-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/d8ccb5ded020133dca431f1df2538ac7/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+192            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+192-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/d8ccb5ded020133dca431f1df2538ac7/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+193    </application>
+194
+195</manifest>
